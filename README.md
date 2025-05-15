@@ -10,8 +10,8 @@ It isn’t perfect and it is certainly difficult to make many at a time, but the
  XTool D1 Pro
 ## Material(s)
 
- Aluminum Business Cards (60pcs) – these can be purchased directly from XTool for $10.99 at the following link:
-https://www.xtool.com/products/metal-business-cards-60pcs?variant=43572695761135
+* [Aluminum Business Cards ($10.99)](https://www.xtool.com/products/metal-business-cards-60pcs?variant=43572695761135
+)
 # Card Icons
  The icons for the card used are from Flaticon, which can be accessed through the following link:
 	https://www.flaticon.com/
